@@ -33,9 +33,7 @@ padding:0;
 .blockquote-footer{
 margin:1rem 0 0;
 }
-nav{
-	border-bottom:0.5px solid #CCC;
-}
+
 
 #stage{
 padding:280px;
@@ -88,10 +86,7 @@ text-transform:uppercase;
 	color:white;
 	
 }
-nav{
-	background-color:#FFFFFF;
-	color:#FFFFFF;
-}
+
 
 
 
