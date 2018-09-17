@@ -1,0 +1,17 @@
+.container{
+	background-image:url('slika.jpg');
+		height:100%;
+	width:100%;
+}
+img{
+	height:100%;
+	width:100%;
+}
+h1{
+	text-align:center;
+	font-family:"Times New Roman";
+	color:#FFFFFF;
+}
+.lead{
+	color:#FFFFFF;
+}

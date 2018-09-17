@@ -1,0 +1,108 @@
+ 
+body {
+height:100%;
+font-family:"Verdana";
+}
+body{
+color:#6c6f73;
+-webkit-font-smoothing:antialiased;
+text-rendering:optimizelegibility;
+}
+h1,h2,h3,h4,h5{
+color:#333;
+}
+h6,h7 {
+text-transform:uppercase;
+font-weight:bold;
+font-size:0.8rem;
+letter-spacing:0.1rem;
+
+}
+img{
+max-width:100%;
+
+}
+
+.blockquote{
+font-size:1.6rem;
+color:#333;
+border:none;
+padding:0;
+}
+
+.blockquote-footer{
+margin:1rem 0 0;
+}
+nav{
+	border-bottom:0.5px solid #CCC;
+}
+
+#stage{
+padding:280px;
+background:url(slika.jpg);
+background-size:cover;
+background-repeat:no repeat;
+color:white;
+height:100%;
+width:100%;
+display:flex;
+align-items:center;
+margin:0;
+
+
+}
+
+#stage-caption{
+font-size:1.4rem;
+font-weight:200;
+max-width:60rem;
+margin:0 auto;
+}
+
+#stage-caption h1{
+color:white;
+font-weight:bold;
+text-transform:uppercase;
+
+}
+#feature-one{
+	background-color:#F2C1DA;
+	
+	
+}
+
+.feature-content {
+	padding:8rem 0;
+	font-size:65%;
+	overflow:hidden;
+
+}
+.feature-dark{
+	background-color:#9eefa3;
+	color:#999;
+	
+}
+
+
+.feature-dark h3{
+	color:white;
+	
+}
+nav{
+	background-color:#FFFFFF;
+	color:#FFFFFF;
+}
+
+
+
+@media screen and (min-width:991px){
+	
+	.feature-content{
+		display:flex;
+		align-items:center;
+		
+	}
+}
+
+
+
